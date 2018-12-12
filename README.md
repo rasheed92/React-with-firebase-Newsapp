@@ -8,7 +8,7 @@
 * User can't vote more than one vote on same article.
 * User can change its vote from up vote to down vote and vice versa.
 
-u can see it in live  [demo](http://high-pitched-needle.surge.sh/)
+
 ## To login  :
 ```
 email:test@test.test
