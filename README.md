@@ -9,7 +9,7 @@
 * User can change its vote from up vote to down vote and vice versa.
 
 u can see it in live  [demo](http://high-pitched-needle.surge.sh/)
-## To login user :
+## To login  :
 ```
 email:test@test.test
 password:123456
