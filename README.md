@@ -2,7 +2,7 @@
 
 ## App Features
 
-*register
+* Register
 * login
 * load data from firebase
 * User can't vote more than one vote on same article.
